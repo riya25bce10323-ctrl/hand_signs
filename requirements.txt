@@ -1,0 +1,13 @@
+# ─────────────────────────────────────────────────────────────
+#  Hand Gesture Recognition System — Python Dependencies
+#  Install: pip install -r requirements.txt
+# ─────────────────────────────────────────────────────────────
+
+# Computer vision framework
+opencv-python>=4.8.0
+
+# Google's hand tracking ML pipeline
+mediapipe>=0.10.0
+
+# Numerical operations
+numpy>=1.24.0
