@@ -22,28 +22,6 @@ This project uses your webcam to detect and interpret hand gestures live.
 * MediaPipe
 * NumPy
 
-## ⚙️ Installation
-
-1️⃣ Clone the repository
-
-```
-git clone https://github.com/YOUR_USERNAME/hand_signs.git
-cd hand_signs
-```
-
-2️⃣ Install dependencies
-
-```
-pip install -r requirements.txt
-```
-
-3️⃣ Run the project
-
-```
-python realtime.py
-```
-
-
 ## 🎯 Use Cases
 
 * Gesture-based control systems
